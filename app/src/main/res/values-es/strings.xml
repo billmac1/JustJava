@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solamente Java</string>
+    <string name="customer">Nombre</string>
+    <string name="toppings_header">Ingrediente</string>
+    <string name="topping1">Crema batida</string>
+    <string name="topping2">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="summary">Resumen del pedido</string>
+    <string name="order">Orden</string>
+    <string name="thanks">¡Gracias!</string>
+</resources>
+
